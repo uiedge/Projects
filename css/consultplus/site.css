@@ -1,0 +1,50 @@
+ body
+{
+background-color: lightblue;
+}
+.right {
+    position: absolute;
+    right: 0px;
+   
+}
+
+{
+    box-sizing: border-box;
+}
+.header {
+    background-color: #000000;
+    color: #ffffff;
+    font-family: "Times New Roman", Times, serif;
+padding: 15px;
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: white;  
+    text-align: center;
+    font-size:  16px;  
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+img {
+    width: 100%;
+    height: auto;
+}
+
+
